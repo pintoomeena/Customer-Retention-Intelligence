@@ -1,0 +1,17 @@
+.DS_Store
+.env
+.pytest_cache/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.coverage
+htmlcov/
+data/artifacts/
+data/db/
+data/processed/
+data/reports/
+logs/
+*.sqlite3
+*.log
